@@ -1,14 +1,14 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0533,100:0f0c29&height=200&section=header&desc=Backend%20Developer&descAlignY=55&descSize=28&descColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0533,100:0f0c29&height=180&section=header&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS;Construindo+backends+que+fazem+sentido+de+verdade.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### Quem sou
 
