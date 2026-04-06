@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=100:50f0c29,50:302b63,100:24243e&height=200&section=header&desc=Backend%20Developer&descAlignY=55&descSize=28&descColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=venom&color=100:50f0c29,50:302b63,100:24243e&height=200&section=header&desc=Backend%20Developer&descAlignY=55&descSize=28&descColor=000000&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS;)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ### Quem sou
 
-Desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
+Me chamo Eduardo, sou desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
 
 Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento — código próximo ao ambiente de produção desde o começo.
 
