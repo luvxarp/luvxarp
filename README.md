@@ -14,7 +14,7 @@
 
 Desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
 
-Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento — código próximo ao ambiente de produção desde o começo.
+Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento, código próximo ao ambiente de produção desde o começo.
 
 - 📚 Engenharia de Software *(em andamento)*
 - 📍 Rio de Janeiro, Brasil
