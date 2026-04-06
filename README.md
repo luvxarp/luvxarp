@@ -8,7 +8,7 @@
 
 ---
 
-Desenvolvedor backend focado em Java. Gosto de construir projetos que vão além do tutorial, com estrutura real, deploy, versionamento e código que faz sentido quando alguém abre o repositório.
+Desenvolvedor backend focado em Java. Gosto de construir projetos que vão além do tutorial — com estrutura real, deploy, versionamento e código que faz sentido quando alguém abre o repositório.
 
 Tô cursando Engenharia de Software e construindo portfólio enquanto aprendo. Rio de Janeiro 🇧🇷
 
