@@ -1,7 +1,5 @@
 <div align="center">
 
-!banner
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS)
 
 </div>
@@ -54,5 +52,3 @@ Stats
 </div>
 
 <br/>
-
-!footer
