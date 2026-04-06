@@ -51,6 +51,4 @@ Mas, também sei utilizá-la a meu favor.
 
 </div>
 
-<br/>
-
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:1a0533,100:000000&height=120&section=footer&reversal=true)
