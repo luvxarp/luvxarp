@@ -8,7 +8,7 @@
 
 ### Quem sou
 
-Me chamo Eduardo, sou um desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
+Me chamo Eduardo, desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
 Busco aplicar conceitos reais de desenvolvimento, e código próximo ao ambiente de produção desde o começo. </br>
 Inclusive, na era da IA, sou o cara que tá aí ainda sabendo escrever código na unha, kkkk. </br>
 Mas, também sei utilizá-la a meu favor.
