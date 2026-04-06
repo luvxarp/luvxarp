@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 Quem sou
 Desenvolvedor backend com foco em Java e Spring Boot. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
 
