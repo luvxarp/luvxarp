@@ -1,69 +1,61 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=shark&color=0:0a0a0a,100:0d1117&height=140&section=header&text=Eduardo&fontSize=52&fontColor=06b6d4&fontAlignY=65&desc=Backend%20Developer%20·%20Java%20%26%20Spring%20Boot&descSize=14&descColor=94a3b8&descAlignY=85&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0533,100:0f0c29&height=200&section=header&desc=Backend%20Developer&descAlignY=55&descSize=28&descColor=ffffff&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS;Construindo+backends+que+fazem+sentido+de+verdade.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### Quem sou
+
+Desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
+
+Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento — código próximo ao ambiente de produção desde o começo.
+
+- 📚 Engenharia de Software *(em andamento)*
+- 📍 Rio de Janeiro, Brasil
+- 🚀 Atualmente explorando **cloud (AWS)** e **arquitetura de software**
+
+---
+
+### Stack
+
+<div>
+
+![Java](https://img.shields.io/badge/Java-1a0533?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=for-the-badge&logo=springboot&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![AWS](https://img.shields.io/badge/AWS-1a0533?style=for-the-badge&logo=amazonaws&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=A78BFA)
+![Maven](https://img.shields.io/badge/Maven-1a0533?style=for-the-badge&logo=apachemaven&logoColor=A78BFA)
+
+</div>
+
+---
+
+### Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luvxarp&theme=midnight-purple&hide_border=true&locale=pt_BR&background=0f0c29&ring=A78BFA&fire=7c3aed&currStreakLabel=A78BFA&dates=6b7280&sideLabels=A78BFA&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luvxarp&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=1a0533&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=luvxarp&style=flat-square&color=06b6d4&label=profile+views)
-
-</div>
-
----
-
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-**`// about me`**
-
-```java
-public class Eduardo extends BackendDeveloper {
-
-    String[] stack  = { "Java", "Spring Boot", "SQL", "Docker", "AWS" };
-    String   focus  = "REST APIs & scalable backends";
-    String   city   = "Rio de Janeiro 🇧🇷";
-    String   degree = "Software Engineering (ongoing)";
-    String[] goals  = { "Cloud (AWS)", "Software Architecture" };
-
-}
-```
-
----
-
-**`// stack`**
-
-<div>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-</div>
-
----
-
-**`// stats`**
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=luvxarp&theme=dark&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&dates=94a3b8&sideLabels=94a3b8)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luvxarp&theme=react-dark&hide_border=true&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:0a0a0a&height=80&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:1a0533,100:000000&height=120&section=footer&reversal=true)
