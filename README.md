@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+`Java · Spring Boot · REST APIs · Docker · AWS`
+
+*Construindo backends que fazem sentido de verdade.*
+
+</div>
+
 ---
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
