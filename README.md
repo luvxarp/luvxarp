@@ -14,11 +14,11 @@
 
 Desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
 
-Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento — código próximo ao ambiente de produção desde o começo.
+Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento, código próximo ao ambiente de produção desde o começo.
 
 - 📚 Engenharia de Software *(em andamento)*
-- 📍 Rio de Janeiro, Brasil
-- 🚀 Atualmente explorando **cloud (AWS)** e **arquitetura de software**
+- Rio de Janeiro, Brasil
+- Atualmente explorando **cloud (AWS)** e **arquitetura de software**
 
 ---
 
@@ -44,15 +44,13 @@ Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luvxarp&theme=midnight-purple&hide_border=true&locale=pt_BR&background=0f0c29&ring=A78BFA&fire=7c3aed&currStreakLabel=A78BFA&dates=6b7280&sideLabels=A78BFA&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luvxarp&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=1a0533&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/eduardo-aguiar-brasil-59a6283a0))
 
 </div>
 
