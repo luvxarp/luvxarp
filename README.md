@@ -10,7 +10,8 @@
 
 Me chamo Eduardo, sou um desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
 Busco aplicar conceitos reais de desenvolvimento, e código próximo ao ambiente de produção desde o começo.
-Aliás, na era da IA, sou o cara que também tá aí escrevendo código na unha, kkkk
+Inclusive, na era da IA, sou o cara que tá aí ainda sabendo escrever código na unha, kkkk
+Mas também sei utilizá-la a meu favor.
 
 - 📚 Engenharia de Software *(em andamento)*
 - Rio de Janeiro, Brasil
