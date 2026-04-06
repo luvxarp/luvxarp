@@ -15,7 +15,7 @@ Mas, também sei utilizá-la a meu favor.
 
 - 📚 Engenharia de Software *(em andamento)*
 - Rio de Janeiro, Brasil
-- Atualmente explorando **cloud (AWS)** e **arquitetura de software e design**
+- Atualmente explorando **cloud (AWS)** e **arquitetura e design de software**
 
 ---
 
