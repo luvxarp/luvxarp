@@ -11,8 +11,8 @@
 ### Quem sou
 
 Me chamo Eduardo, sou um desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
-
-Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento, código próximo ao ambiente de produção desde o começo.
+Busco aplicar conceitos reais de desenvolvimento, e código próximo ao ambiente de produção desde o começo.
+Aliás, na era da IA, sou o cara que também tá aprendendo escrever código na unha, kkkk
 
 - 📚 Engenharia de Software *(em andamento)*
 - Rio de Janeiro, Brasil
@@ -48,7 +48,7 @@ Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/eduardo-aguiar-brasil-59a6283a0))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/eduardo-aguiar-brasil-59a6283a0)
 
 </div>
 
