@@ -1,7 +1,5 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0533,100:0f0c29&height=180&section=header&animation=fadeIn)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS)](https://git.io/typing-svg)
 
 </div>
