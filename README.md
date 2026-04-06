@@ -1,26 +1,41 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Eduardo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20·%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a0aec0)
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Eduardo&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer&descAlignY=65&descSize=22&descColor=a78bfa&animation=fadeIn)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+AWS;Construindo+backends+que+fazem+sentido+de+verdade.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-Desenvolvedor backend com foco em Java e Spring Boot. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, escalabilidade e código que faz sentido de verdade — não só código que funciona.
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-📚 Engenharia de Software (em andamento) &nbsp;|&nbsp; 📍 Rio de Janeiro, BR
+### Quem sou
+
+Desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
+
+Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento — código próximo ao ambiente de produção desde o começo.
+
+- 📚 Engenharia de Software *(em andamento)*
+- 📍 Rio de Janeiro, Brasil
+- 🚀 Atualmente explorando **cloud (AWS)** e **arquitetura de software**
 
 ---
 
 ### Stack
 
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 </div>
 
 ---
@@ -28,16 +43,26 @@ Desenvolvedor backend com foco em Java e Spring Boot. Construo APIs REST, integr
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luvxarp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvxarp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luvxarp&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvxarp&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luvxarp&theme=midnight-purple&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&reversal=true)
