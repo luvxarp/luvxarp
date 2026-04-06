@@ -8,17 +8,35 @@
 
 ---
 
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+Desenvolvedor backend focado em Java. Gosto de construir projetos que vão além do tutorial — com estrutura real, deploy, versionamento e código que faz sentido quando alguém abre o repositório.
 
-### Quem sou
+Tô cursando Engenharia de Software e construindo portfólio enquanto aprendo. Rio de Janeiro 🇧🇷
 
-Desenvolvedor backend com foco em **Java e Spring Boot**. Construo APIs REST, integro serviços externos e estruturo projetos pensando em deploy, versionamento e escalabilidade.
+---
 
-Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento, código próximo ao ambiente de produção desde o começo.
+### Projetos
 
-- 📚 Engenharia de Software *(em andamento)*
-- 📍 Rio de Janeiro, Brasil
-- 🚀 Atualmente explorando **cloud (AWS)** e **arquitetura de software**
+**[arbitrage-bot](https://github.com/luvxarp/arbitrage-bot)**
+Bot de arbitragem que monitora Binance e Coinbase em tempo real via WebClient, identifica oportunidades de lucro e expõe os dados por uma API REST. Roda em Docker e foi deployado em EC2.
+`Java` `Spring Boot` `WebFlux` `Docker` `AWS EC2`
+
+---
+
+**[pokedex](https://github.com/luvxarp/pokedex)**
+Pokédex consumindo a PokéAPI com sistema de captura persistido via Spring Data JPA e banco H2. Projeto focado em praticar integração com APIs externas e persistência de dados.
+`Java` `Spring Boot` `JPA` `H2` `REST`
+
+---
+
+**[sort-visualizer](https://github.com/luvxarp/sort-visualizer)**
+Visualizador de algoritmos de ordenação em Java Swing. Implementa 5 algoritmos via Strategy Pattern com animações controladas por timer — sem travar a interface.
+`Java` `Swing` `Design Patterns`
+
+---
+
+**[detran-ai](https://github.com/luvxarp/detran-ai)**
+Extensão Chrome que captura questões do simulado do DETRAN RJ, manda pra AWS Bedrock via Flask e exibe a análise da IA em tempo real numa interface Java Swing com SSE.
+`Java` `Python` `Flask` `AWS Bedrock` `Chrome Extension`
 
 ---
 
@@ -38,13 +56,9 @@ Mais do que estudar tecnologia, busco aplicar conceitos reais de desenvolvimento
 
 ---
 
-### Stats
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luvxarp&theme=midnight-purple&hide_border=true&locale=pt_BR&background=0f0c29&ring=A78BFA&fire=7c3aed&currStreakLabel=A78BFA&dates=6b7280&sideLabels=A78BFA&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luvxarp&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=1a0533&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
